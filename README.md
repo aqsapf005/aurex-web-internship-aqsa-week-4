@@ -8,7 +8,7 @@
 
 ## Live Deployment Link
 
- [View Live Project](https://aqsapf005.github.io/aurex-web-internship-aqsa-week-4/))
+ [View Live Project](https://aqsapf005.github.io/aurex-web-internship-aqsa-week-4/)
 
 ## Technologies Used
 
